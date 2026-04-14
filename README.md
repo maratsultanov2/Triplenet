@@ -2,19 +2,12 @@
 
 *Предшественник [TAT-7](https://github.com/maratsultanov2/TAT-7)*
 
-**Triplenet** — первая Multi-Head архитектура, созданная в мае 2025.  
-Именно здесь началось исследование нечётных простых чисел (3, 5, 7) как принципа организации нейросетей.
-
----
+**Triplenet** — первая Multi-Head архитектура, созданная в мае 2025.
 
 ### 📈 Эволюция
-
 Triplenet (3 головы) → TAT-прототип (5 голов) → TAT-7 (7 голов) → TreeAngleTap
 
----
-
-### 🏆 Результаты Triplenet
-
+### 🏆 Результаты
 | Бенчмарк | Результат |
 |:---|:---|
 | MNIST (Triplenet Minimal) | 86.10% |
@@ -22,19 +15,23 @@ Triplenet (3 головы) → TAT-прототип (5 голов) → TAT-7 (7 
 
 ---
 
-### 🔗 Связанные проекты
-
-- [TAT-7](https://github.com/maratsultanov2/TAT-7) — флагманская архитектура
-- [TreeAngleTap](https://github.com/maratsultanov2/TreeAngleTap) — экспериментальная площадка
-- [TAT Agent Helper](https://github.com/maratsultanov2/TAT_agent_helper) — автономный агент
-
----
-
 ### 👤 Автор
-
-**Марат Султанов**  
-[GitHub](https://github.com/maratsultanov2) | [Telegram](https://t.me/Marat_Sultanow)
+**Марат Султанов** | [GitHub](https://github.com/maratsultanov2) | [Telegram](https://t.me/Marat_Sultanow)
 
 ---
+
+### ☕ Поддержать проект
+
+TAT создаётся и поддерживается одним разработчиком. Если проект оказался полезным, вы можете поддержать его развитие.
+
+[![T-Bank](https://img.shields.io/badge/Т--Банк-40817810600068291171-blue?style=flat-square)]()
+[![ЮMoney](https://img.shields.io/badge/ЮMoney-4100119011323328-purple?style=flat-square)]()
+
+*Каждая чашка кофе помогает оплачивать вычислительные мощности.*
+
+---
+
+### 📄 Лицензия
+MIT License.
 
 *Этот репозиторий сохранён как исторический артефакт.*
